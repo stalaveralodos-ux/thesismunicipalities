@@ -1,5 +1,6 @@
 ---
 title: Municipal Social Rights Lab
+layout: default
 ---
 
 <p align="center">
